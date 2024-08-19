@@ -4,7 +4,9 @@
 ### Analysis script (jupyter notebook):
 [telecom churn analysis.ipynb](https://github.com/jakejosh6751/Understanding-Customer-Churn/blob/main/telecom%20churn%20analysis.ipynb)
 
-### Report slides:
+### Report, Insight, and Recommendations
+
+Report slides 1 to 5:
 
 ![telecom customer churn_1.jpg](https://github.com/jakejosh6751/Understanding-Customer-Churn/blob/main/telecom%20customer%20churn_1.jpg)
 
