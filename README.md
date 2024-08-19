@@ -1,5 +1,3 @@
-![telecom customer churn_4.jpg](https://github.com/jakejosh6751/Understanding-Customer-Churn/blob/main/telecom%20customer%20churn_4.jpg)
-
 # Understanding-Customer-Churn
 ## An Exploratory Data Analysis to Identify High-Risk Customer Profiles in Telecom
 
