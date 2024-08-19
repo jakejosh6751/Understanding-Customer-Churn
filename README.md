@@ -4,7 +4,7 @@
 ## An Exploratory Data Analysis to Identify High-Risk Customer Profiles in Telecom
 
 Analysis file (jupyter notebook):
-https://github.com/jakejosh6751/Understanding-Customer-Churn/blob/main/telecom%20churn%20analysis.ipynb
+![](https://github.com/jakejosh6751/Understanding-Customer-Churn/blob/main/telecom%20churn%20analysis.ipynb)
 
 Report slides:
 
